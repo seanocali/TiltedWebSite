@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500.032" height="500.032" viewBox="0 0 1664 1664">
+<svg xmlns="http://www.w3.org/2000/svg" width="1664" height="1664" viewBox="0 0 1664 1664">
   <defs>
     <style>
       .cls-1 {
-        stroke: #000;
-        stroke-linejoin: round;
-        stroke-width: 40px;
+        fill: #575757;
+        fill-opacity: 0;
       }
 
       .cls-2 {
@@ -13,6 +12,6 @@
       }
     </style>
   </defs>
-  <circle id="GrayBg" class="cls-1" cx="832" cy="832" r="796"/>
+  <circle id="Clear_with_white_stroke" data-name="Clear with white stroke" class="cls-1" cx="832" cy="832" r="796"/>
   <path id="Yellow_T_Outline" data-name="Yellow &apos;T&apos; Outline" class="cls-2" d="M670.219,1263.32L942.661,626.848q24.345-55.648,30.722-88.109,6.358-32.444,7.535-48.692a50.789,50.789,0,0,0-.579-8.115,34.908,34.908,0,0,1-.58-5.8H1137.43q-13.92,13.913-24.35,34.78t-19.71,44.055h83.47q6.96-18.533,13.34-31.882a202.719,202.719,0,0,1,17.39-28.983q11-15.651,29.56-37.1,18.525-21.44,51.01-56.228H630.8q-35.948,0-35.939,38.258,0,37.116,31.3,37.1H743.257q42.876,0,42.9,28.984,0,11.6-9.275,35.939L461.541,1263.32H670.219Z"/>
 </svg>
