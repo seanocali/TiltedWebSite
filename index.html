@@ -21,19 +21,23 @@
                 url('./assets/font/Galaxian.woff') format('woff')
         }
 
-        .coming-soon-overlay {
-          position: fixed;
-          inset: 0;
-          z-index: 999999;
-          background: black;
-          color: white;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-size: 12vw;
-          font-weight: 900;
-          text-align: center;
-        }
+            .coming-soon-overlay {
+              position: fixed;
+              inset: 0;
+              z-index: 999999;
+              background: transparent;
+              color: white;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              font-size: 12vw;
+              font-weight: 900;
+              text-align: center;
+              pointer-events: none;
+            
+              -webkit-text-stroke: 4px black;
+              text-shadow: 0 0 8px black;
+            }
 
         .section-title {
             text-align: center;
